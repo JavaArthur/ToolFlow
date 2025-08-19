@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai-assistant",
+    "name": "AI 助手",
+    "description": "智能对话和通用 AI 助手",
+    "color": "blue"
+  },
+  {
+    "id": "coding",
+    "name": "编程开发",
+    "description": "代码生成、调试和开发工具",
+    "color": "green"
+  },
+  {
+    "id": "writing",
+    "name": "写作工具",
+    "description": "内容创作和文本生成",
+    "color": "purple"
+  },
+  {
+    "id": "image",
+    "name": "图像生成",
+    "description": "AI 绘画和图像处理",
+    "color": "pink"
+  },
+  {
+    "id": "video",
+    "name": "视频制作",
+    "description": "视频生成和编辑工具",
+    "color": "red"
+  },
+  {
+    "id": "automation",
+    "name": "自动化",
+    "description": "工作流自动化和效率工具",
+    "color": "orange"
+  },
+  {
+    "id": "data",
+    "name": "数据分析",
+    "description": "数据处理和分析工具",
+    "color": "indigo"
+  },
+  {
+    "id": "design",
+    "name": "设计工具",
+    "description": "UI/UX 设计和原型工具",
+    "color": "teal"
+  }
+]

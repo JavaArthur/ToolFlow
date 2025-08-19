@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai-assistant",
+    "name": "AI Assistant",
+    "description": "Intelligent conversation and general AI assistants",
+    "color": "blue"
+  },
+  {
+    "id": "coding",
+    "name": "Development",
+    "description": "Code generation, debugging and development tools",
+    "color": "green"
+  },
+  {
+    "id": "writing",
+    "name": "Writing Tools",
+    "description": "Content creation and text generation",
+    "color": "purple"
+  },
+  {
+    "id": "image",
+    "name": "Image Generation",
+    "description": "AI art and image processing",
+    "color": "pink"
+  },
+  {
+    "id": "video",
+    "name": "Video Creation",
+    "description": "Video generation and editing tools",
+    "color": "red"
+  },
+  {
+    "id": "automation",
+    "name": "Automation",
+    "description": "Workflow automation and productivity tools",
+    "color": "orange"
+  },
+  {
+    "id": "data",
+    "name": "Data Analysis",
+    "description": "Data processing and analysis tools",
+    "color": "indigo"
+  },
+  {
+    "id": "design",
+    "name": "Design Tools",
+    "description": "UI/UX design and prototyping tools",
+    "color": "teal"
+  }
+]

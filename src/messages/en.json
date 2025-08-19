@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "home": "Home",
+    "submit": "Submit Tool"
+  },
+  "search": {
+    "placeholder": "Search AI tools...",
+    "filters": "Filters:",
+    "category": "Category:",
+    "tags": "Tags:",
+    "all": "All",
+    "clearFilters": "Clear Filters",
+    "selectedTags": "Selected Tags:"
+  },
+  "hero": {
+    "title": "Curated AI Tools Collection",
+    "description": "Discover truly useful AI tools and build efficient automated workflows. Not just another tool directory, but a battle-tested collection of resources.",
+    "stats": {
+      "tools": "Curated Tools",
+      "categories": "Categories",
+      "updates": "Daily",
+      "updatesDesc": "Updates"
+    }
+  },
+  "sections": {
+    "featured": "Featured",
+    "all": "All Tools",
+    "searchResults": "Search Results",
+    "related": "Related Tools"
+  },
+  "tool": {
+    "visit": "Visit",
+    "featured": "Featured",
+    "visitOfficial": "Visit the official website for more information",
+    "description": "Description",
+    "relatedTags": "Related Tags",
+    "relatedDesc": "Other tools you might be interested in"
+  },
+  "pricing": {
+    "Free": "Free",
+    "Freemium": "Freemium",
+    "Paid": "Paid"
+  },
+  "sort": {
+    "newest": "Newest",
+    "name": "Name",
+    "rating": "Rating"
+  },
+  "empty": {
+    "title": "No tools found",
+    "description": "Try adjusting your search criteria or browse other categories",
+    "action": "View All Tools"
+  },
+  "actions": {
+    "loadMore": "Load More Tools",
+    "backToHome": "Back to Home",
+    "searchTools": "Search Tools"
+  },
+  "footer": {
+    "about": "About ToolFlow",
+    "aboutDesc": "A curated AI tools collection to help you discover and use the best AI tools.",
+    "categories": "Tool Categories",
+    "popularTags": "Popular Tags",
+    "contact": "Contact Us",
+    "contactDesc": "Have a great tool to recommend? Submit it to us!",
+    "copyright": "© 2024 ToolFlow. Carefully curating every valuable AI tool."
+  },
+  "breadcrumb": {
+    "toolDetail": "Tool Details"
+  },
+  "notFound": {
+    "title": "Tool Not Found",
+    "description": "Sorry, we couldn't find the tool you're looking for. It may not exist or has been removed."
+  }
+}

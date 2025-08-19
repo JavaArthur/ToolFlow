@@ -1,0 +1,138 @@
+[
+  {
+    "id": "claude",
+    "name": "Claude",
+    "description": "AI assistant developed by Anthropic, excels at analysis, writing, math, programming, creative writing and other tasks. Supports contextual conversations and complex reasoning.",
+    "url": "https://claude.ai",
+    "tags": ["AI Assistant", "Chat", "Programming", "Writing", "Analysis"],
+    "category": "ai-assistant",
+    "addedAt": "2022-04-11",
+    "featured": true,
+    "pricing": "Freemium",
+    "rating": 4.8
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "description": "OpenAI's large language model capable of natural conversation, answering questions, assisting with writing, programming, and various other tasks.",
+    "url": "https://chat.openai.com",
+    "tags": ["AI Assistant", "Chat", "Programming", "Writing"],
+    "category": "ai-assistant",
+    "addedAt": "2022-11-30",
+    "featured": true,
+    "pricing": "Freemium",
+    "rating": 4.7
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "description": "AI-powered code completion tool that provides intelligent suggestions and auto-completion while you code, supporting multiple programming languages.",
+    "url": "https://github.com/features/copilot",
+    "tags": ["Programming", "Code Generation", "Auto-completion", "Development Tools"],
+    "category": "coding",
+    "addedAt": "2021-06-29",
+    "pricing": "Paid",
+    "rating": 4.6
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "description": "Code editor designed specifically for AI-assisted programming, with a powerful built-in AI programming assistant that can understand your entire codebase.",
+    "url": "https://cursor.sh",
+    "tags": ["Programming", "Code Editor", "AI Assistant", "Development Tools"],
+    "category": "coding",
+    "addedAt": "2023-03-14",
+    "featured": true,
+    "pricing": "Freemium",
+    "rating": 4.5
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "description": "Top-tier AI image generation tool accessible via Discord bot, capable of generating high-quality artwork and concept images.",
+    "url": "https://midjourney.com",
+    "tags": ["Image Generation", "AI Art", "Creative", "Design"],
+    "category": "image",
+    "addedAt": "2022-07-12",
+    "featured": true,
+    "pricing": "Paid",
+    "rating": 4.9
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "description": "Open-source text-to-image generation model that can run locally, generating high-quality images with support for various styles and controls.",
+    "url": "https://stability.ai/stable-diffusion",
+    "tags": ["Image Generation", "Open Source", "Local Deployment", "AI Art"],
+    "category": "image",
+    "addedAt": "2022-08-22",
+    "pricing": "Free",
+    "rating": 4.4
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "description": "AI writing assistant integrated into Notion, helping generate, edit, and summarize content to improve document and note-taking efficiency.",
+    "url": "https://notion.so/product/ai",
+    "tags": ["Writing", "Note-taking", "Content Generation", "Productivity"],
+    "category": "writing",
+    "addedAt": "2023-02-22",
+    "pricing": "Freemium",
+    "rating": 4.3
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "description": "AI-powered creative toolkit offering video generation, image editing, 3D modeling, and various other creative AI features.",
+    "url": "https://runwayml.com",
+    "tags": ["Video Generation", "Image Editing", "Creative Tools", "3D Modeling"],
+    "category": "video",
+    "addedAt": "2023-02-06",
+    "pricing": "Freemium",
+    "rating": 4.2
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "description": "Workflow automation platform connecting thousands of applications with AI-enhanced automation rules to boost productivity.",
+    "url": "https://zapier.com",
+    "tags": ["Automation", "Workflow", "Integration", "Productivity"],
+    "category": "automation",
+    "addedAt": "2011-10-01",
+    "pricing": "Freemium",
+    "rating": 4.5
+  },
+  {
+    "id": "figma-ai",
+    "name": "Figma AI",
+    "description": "Built-in AI design assistant in Figma, helping generate design elements, optimize interface layouts, and provide design suggestions.",
+    "url": "https://figma.com",
+    "tags": ["Design", "UI/UX", "Prototyping", "Collaboration"],
+    "category": "design",
+    "addedAt": "2023-06-21",
+    "pricing": "Freemium",
+    "rating": 4.4
+  },
+  {
+    "id": "tableau-ai",
+    "name": "Tableau AI",
+    "description": "Data visualization platform with integrated AI features that automatically generates charts, discovers data insights, and provides intelligent analysis suggestions.",
+    "url": "https://tableau.com",
+    "tags": ["Data Visualization", "Data Analysis", "Business Intelligence", "Charts"],
+    "category": "data",
+    "addedAt": "2023-05-09",
+    "pricing": "Paid",
+    "rating": 4.3
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant providing grammar checking, writing suggestions, tone adjustment, and support for multiple languages.",
+    "url": "https://grammarly.com",
+    "tags": ["Writing", "Grammar Check", "Editing", "Language Tools"],
+    "category": "writing",
+    "addedAt": "2009-07-01",
+    "pricing": "Freemium",
+    "rating": 4.6
+  }
+]

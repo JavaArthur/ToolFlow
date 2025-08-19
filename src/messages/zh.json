@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "home": "首页",
+    "submit": "提交工具"
+  },
+  "search": {
+    "placeholder": "搜索 AI 工具...",
+    "filters": "筛选：",
+    "category": "分类：",
+    "tags": "标签：",
+    "all": "全部",
+    "clearFilters": "清除筛选",
+    "selectedTags": "已选标签："
+  },
+  "hero": {
+    "title": "精选 AI 工具收藏站",
+    "description": "发现真正有用的 AI 工具，构建高效的自动化工作流。不是又一个工具导航站，而是经过实践检验的精选集。",
+    "stats": {
+      "tools": "精选工具",
+      "categories": "工具分类", 
+      "updates": "每日",
+      "updatesDesc": "更新推荐"
+    }
+  },
+  "sections": {
+    "featured": "精选推荐",
+    "all": "所有工具",
+    "searchResults": "搜索结果",
+    "related": "相关推荐"
+  },
+  "tool": {
+    "visit": "访问",
+    "featured": "精选推荐",
+    "visitOfficial": "访问官方网站了解更多信息",
+    "description": "工具简介",
+    "relatedTags": "相关标签",
+    "relatedDesc": "你可能感兴趣的其他工具"
+  },
+  "pricing": {
+    "Free": "免费",
+    "Freemium": "免费增值", 
+    "Paid": "付费"
+  },
+  "sort": {
+    "newest": "最新添加",
+    "name": "名称排序",
+    "rating": "评分排序"
+  },
+  "empty": {
+    "title": "未找到相关工具",
+    "description": "尝试调整搜索条件或浏览其他分类",
+    "action": "查看所有工具"
+  },
+  "actions": {
+    "loadMore": "加载更多工具",
+    "backToHome": "返回首页",
+    "searchTools": "搜索工具"
+  },
+  "footer": {
+    "about": "关于 ToolFlow",
+    "aboutDesc": "精心策划的 AI 工具收藏站，帮助你发现和使用最好的 AI 工具。",
+    "categories": "工具分类",
+    "popularTags": "热门标签",
+    "contact": "联系我们",
+    "contactDesc": "有好的工具推荐？欢迎提交给我们！",
+    "copyright": "© 2024 ToolFlow. 用心收藏每一个有价值的 AI 工具。"
+  },
+  "breadcrumb": {
+    "toolDetail": "工具详情"
+  },
+  "notFound": {
+    "title": "工具未找到",
+    "description": "抱歉，我们没有找到您要查看的工具。可能该工具不存在或已被移除。"
+  }
+}
